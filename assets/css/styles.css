@@ -459,7 +459,7 @@ img{
   }
   .cert__container_course{
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(6, 1fr);
+    grid-template-rows: repeat(7, 1fr);
     column-gap: 2rem;
   }
   .cert__container_contest{
@@ -469,12 +469,12 @@ img{
   }
   .cert__container_webinar{
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
     column-gap: 2rem;
   }
   .work__container{
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2,1fr);
+    grid-template-rows: repeat(8,1fr);
     column-gap: 2rem;
   }
   .contact__form{
